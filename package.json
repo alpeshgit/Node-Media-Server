@@ -5,7 +5,7 @@
   "main": "node_media_server.js",
   "scripts": {
     "test": "node app.js",
-    "start": "node node_media_server.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
